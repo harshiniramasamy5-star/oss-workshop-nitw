@@ -1,2 +1,2 @@
 # Workshop practice file
-print("Hello, World!"
+print("Hello, NITW!")
